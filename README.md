@@ -1,0 +1,3 @@
+# OpenVoxel
+
+A Minecraft simulator
